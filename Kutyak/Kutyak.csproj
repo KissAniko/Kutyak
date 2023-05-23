@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="KutyaFajtak.csv" />
+    <None Include="Kutyak.csv" />
+    <None Include="KutyaNevek.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Datas\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
